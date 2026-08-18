@@ -1,4 +1,4 @@
-# My_Algorithm
+# my-algorithm
 
 알고리즘 강의를 수강하며 학습한 기록을 정리한 저장소입니다.
 
